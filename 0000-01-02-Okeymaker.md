@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Omnia mutantur, nihil interit
 Use the left arrow to go back!
